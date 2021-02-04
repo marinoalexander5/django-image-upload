@@ -1,5 +1,5 @@
 from django.urls import path
-from .views import HomePageView, CreatePostView
+from .views import HomePageView, CreatePageView
 
 APP_NAME = 'posts'
 urlpatterns = [
